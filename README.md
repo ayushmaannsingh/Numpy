@@ -1,2 +1,2 @@
 # Numpy
-# Arrar
+# Arrary
